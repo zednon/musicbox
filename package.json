@@ -44,5 +44,17 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.1"
-  }
+  },
+  "description": "Learn how to build a fully functional audio player with customizable controls and interfaces",
+  "main": "tailwind.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zednon/musicbox.git"
+  },
+  "author": "Anna Gondring",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zednon/musicbox/issues"
+  },
+  "homepage": "https://github.com/zednon/musicbox#readme"
 }
